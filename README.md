@@ -1,11 +1,14 @@
-## Hi there 👋
+## Hi there, I am Prem B Rana👋
+I currently serve as the mentor for Slipper2sat's Earthquake Precursor Detection Mission (EPDM), which aims to advance the prediction of earthquake precursors by integrating Quad-mag technology and noise-reduced techniques to analyze electromagnetic wave patterns. Utilizing 1U boomless CubeSat technology, we focus on detecting anomalies in Earth's magnetic field by monitoring Ultra-Low Frequency (ULF) and Extremely Low Frequency (ELF) signals that may precede seismic events. In addition to my work in EPDM.
 
+I have led a project focused on the recognition and separation of fresh and rotten fruits using the YOLO (You Only Look Once) algorithm. This project was a pivotal experience, combining my passion for technology with practical problem-solving in machine learning and web technologies.
+I am intrested in AI/ML, signal processing and web development
 <!--
 **PrmBRana/PrmBRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
