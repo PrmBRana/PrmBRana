@@ -1,20 +1,45 @@
-## Hi there, I am Prem B Rana👋
-I currently serve as the mentor for Slipper2sat's Earthquake Precursor Detection Mission (EPDM), which aims to advance the prediction of earthquake precursors by integrating Quad-mag technology and noise-reduced techniques to analyze electromagnetic wave patterns. Utilizing 1U boomless CubeSat technology, we focus on detecting anomalies in Earth's magnetic field by monitoring Ultra-Low Frequency (ULF) and Extremely Low Frequency (ELF) signals that may precede seismic events. In addition to my work in EPDM.
+# Hi there, I'm Prem Bahadur Rana 👋
 
-I have led a project focused on the recognition and separation of fresh and rotten fruits using the YOLO (You Only Look Once) algorithm. This project was a pivotal experience, combining my passion for technology with practical problem-solving in machine learning and web technologies.
+I am passionate about RISC-V architecture, VLSI design, semiconductor systems, embedded systems, and AI-driven technologies. My interests focus on bridging hardware innovation, research, and real-world applications.
 
-I am strongly intrested in AI/ML, signal processing and web development
-<!--
-**PrmBRana/PrmBRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Experience & Projects
 
-Here are some ideas to get you started:
+### 🛰️ Slippers2Sat – Earthquake Precursor Detection Mission (EPDM)
 
-- 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I served as a mentor for the Slippers2Sat Earthquake Precursor Detection Mission (EPDM), which focuses on detecting possible earthquake precursors using Quad-Mag technology and noise-reduction techniques to analyze electromagnetic wave patterns.
+
+The mission utilizes a 1U boomless CubeSat platform to monitor Ultra-Low Frequency (ULF) and Extremely Low Frequency (ELF) signals that may indicate anomalies in Earth’s magnetic field before seismic events. The Slippers2Sat 1U CubeSat was successfully launched from Hunan, China.
+
+This project also aims to empower and uplift Nepal’s marginalized and indigenous Chepang community through technology and scientific engagement.
+
+### 🍎 Fruit Recognition and Classification using YOLO
+
+I led a machine learning project focused on the recognition and classification of fresh and rotten fruits using the YOLO (You Only Look Once) algorithm.
+
+This project combined computer vision, machine learning, and web technologies to create practical solutions for agriculture and food quality assessment, helping bridge the gap between technology and agriculture.
+
+### ⚙️ RISC-V Processor Design
+
+Currently, I am designing and verifying a 5-stage pipelined RISC-V processor. I am strongly interested in:
+
+* RISC-V Architecture
+* VLSI Design
+* Digital IC Design
+* ASIC Flow
+* Verification and Physical Design
+* Semiconductor Systems
+
+## 🌱 Currently Learning
+
+* ASIC Design Flow (OpenROAD / OpenLane)
+* Timing Analysis & Physical Design
+* Semiconductor Fabrication Basics
+* Computer Architecture & Verification
+
+## 📫 Interests
+
+* Open-source silicon
+* RISC-V ecosystem
+* Chip design and fabrication
+* AI hardware and embedded systems
+* Space technology and scientific research
