@@ -31,10 +31,10 @@ Currently, I am designing and verifying a 5-stage pipelined RISC-V processor. I 
 
 ## 🌱 Currently Learning
 
-* ASIC Design Flow (OpenROAD / OpenLane)
+* ASIC Design Flow (OpenROAD / OpenLane/Librelane)
 * Timing Analysis & Physical Design
-* Semiconductor Fabrication Basics
-* Computer Architecture & Verification
+* ASIC Architecture & Verification 
+* FPGA testing
 
 ## 📫 Interests
 
