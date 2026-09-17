@@ -39,6 +39,7 @@ Currently, I am designing and verifying a 5-stage pipelined RISC-V processor. I 
 ## 📫 Interests
 
 * Open-source silicon
+* FPGA
 * RISC-V ecosystem
 * Chip design and fabrication
 * AI hardware and embedded systems
