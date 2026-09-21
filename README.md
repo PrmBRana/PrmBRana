@@ -23,6 +23,7 @@ This project combined computer vision, machine learning, and web technologies to
 Currently, I am designing and verifying a 5-stage pipelined RISC-V processor. I am strongly interested in:
 
 * RISC-V Architecture
+* FPGA
 * VLSI Design
 * Digital IC Design
 * ASIC Flow
